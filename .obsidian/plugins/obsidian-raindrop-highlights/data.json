@@ -1,0 +1,116 @@
+{
+  "version": "0.0.21",
+  "username": "aaron Reveley",
+  "isConnected": true,
+  "ribbonIcon": true,
+  "appendMode": true,
+  "collectionsFolders": true,
+  "onlyBookmarksWithHl": false,
+  "highlightsFolder": "RainDrop",
+  "collectionGroups": true,
+  "autoSyncSuccessNotice": true,
+  "syncCollections": {
+    "0": {
+      "id": 0,
+      "title": "All bookmarks",
+      "sync": false,
+      "lastSyncDate": "2024-05-18T21:30:38.293Z"
+    },
+    "43015249": {
+      "id": 43015249,
+      "title": "Collections/network troubleshooting",
+      "sync": false
+    },
+    "43116964": {
+      "id": 43116964,
+      "title": "Collections/anki",
+      "sync": false
+    },
+    "43118568": {
+      "id": 43118568,
+      "title": "Collections/bikes",
+      "sync": false
+    },
+    "43186271": {
+      "id": 43186271,
+      "title": "Collections/jobs",
+      "sync": false
+    },
+    "43212000": {
+      "id": 43212000,
+      "title": "Collections/jobs/SalesForce",
+      "sync": false
+    },
+    "43237525": {
+      "id": 43237525,
+      "title": "Collections/Job Posts",
+      "sync": false
+    },
+    "43238110": {
+      "id": 43238110,
+      "title": "Collections/waterfleet",
+      "sync": false
+    },
+    "43281348": {
+      "id": 43281348,
+      "title": "Collections/ready to work",
+      "sync": false
+    },
+    "43336209": {
+      "id": 43336209,
+      "title": "Collections/Study Material",
+      "sync": false
+    },
+    "43382182": {
+      "id": 43382182,
+      "title": "Collections/excel",
+      "sync": false
+    },
+    "43401885": {
+      "id": 43401885,
+      "title": "Collections/Security Plus",
+      "sync": false
+    },
+    "43431658": {
+      "id": 43431658,
+      "title": "Collections/motorcycle",
+      "sync": false
+    },
+    "43513912": {
+      "id": 43513912,
+      "title": "Collections/applications",
+      "sync": false
+    },
+    "43656648": {
+      "id": 43656648,
+      "title": "Collections/bg3",
+      "sync": false
+    },
+    "43678234": {
+      "id": 43678234,
+      "title": "Collections/meetup",
+      "sync": false
+    },
+    "44276397": {
+      "id": 44276397,
+      "title": "Collections/ObsidianSync",
+      "sync": true,
+      "lastSyncDate": "2024-05-18T21:50:08.405Z"
+    },
+    "-1": {
+      "id": -1,
+      "title": "Unsorted",
+      "sync": false
+    },
+    "-99": {
+      "id": -99,
+      "title": "Trash",
+      "sync": false
+    }
+  },
+  "template": "{% if is_new_article %}\n# Metadata\n{% if link %}Source URL:: {{link}}{% endif %}\n{% if tags|length %}Topics:: #{{ tags | join(\", #\") }}{% endif %}\n\n---\n# {{title}}\n\n{% if excerpt %}{{excerpt}}{% endif %}\n\n## Highlights\n{% endif -%}{% for highlight in highlights %}\n{% if highlight.color == \"red\" -%}\n    {%- set callout = \"danger\" -%}\n{%- elif highlight.color == \"blue\" -%}\n    {%- set callout = \"info\" -%}\n{%- elif highlight.color == \"green\" -%}\n    {%- set callout = \"check\" -%}\n{%- else -%}\n    {%- set callout = \"quote\" -%}\n{%- endif -%}\n> [!{{callout}}]+ Updated on {{highlight.lastUpdate}}\n>\n> {{highlight.text.split(\"\\n\") | join(\"\\n>\")}}\n{% if highlight.note -%}> > {{highlight.note + \"\\n\"}}{%- endif %}\n\n{%- endfor -%}\n",
+  "metadataTemplate": "",
+  "filenameTemplate": "{{title}}",
+  "autoSyncInterval": 0,
+  "autoescape": true
+}

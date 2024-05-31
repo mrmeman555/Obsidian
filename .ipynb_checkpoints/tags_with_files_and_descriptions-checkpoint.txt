@@ -1,0 +1,58 @@
+Tag: StudyStrategy
+  - Inbox/Flashcards Strategy.md: Strategies and tips for effective flashcard study, particularly for IT interview preparation.
+
+Tag: MOC-DailyHabits
+  - Inbox/Flashcards Strategy.md: Strategies and tips for effective flashcard study, particularly for IT interview preparation.
+  - Inbox/Job Leads - use daily.md: Regularly reviewed note related to my job search strategy.
+  - Inbox/Journal.md: Reflection on core beliefs about the nature of work and associated habits.
+  - MOCs/DailyHabits MOC.md: Items to review regularly. can be related to any topic.
+
+Tag: MOC-JobSearch
+  - Inbox/Job Leads - use daily.md: Regularly reviewed note related to my job search strategy.
+  - MOCs/Job Search MOC.md: JobSearch related items
+
+Tag: MOC-Documentation/Obsidian/vaultDocumentation
+  - Inbox/necessary metadata.md: A reference guide for the metadata schema used in my Obsidian system.
+  - Inbox/Obsidian Note System Overview.md: A reference guide for the metadata schema used in my Obsidian system.
+
+Tag: #MOC-Documentation/Git
+  - Inbox/Setting Up Git and Automating Backups with Conda.md: A detailed walkthrough on setting up Git using Conda, initializing a Git repository, and automating backups in your Obsidian vault.
+
+Tag: MOC-Documentation/Obsidian
+  - Inbox/Setting Up Git and Automating Backups with Conda.md: A detailed walkthrough on setting up Git using Conda, initializing a Git repository, and automating backups in your Obsidian vault.
+
+Tag: MOC-DailyNotes
+  - MOCs/Daily Notes MOC.md: Hosts all my daily notes
+
+Tag: MOC-Documentation
+  - MOCs/Documentation MOC.md: Documentation related to software
+
+Tag: MOC-Flashcards
+  - MOCs/Flashcards MOC.md: My Flashcards
+
+Tag: MOC
+  - MOCs/Master MOC.md: A dynamic display of all my MOC files
+  - MySystem/Templates/MOC Template.md: {This is a template used for producing properly formatted files.}
+
+Tag: MOC-MeetingNotes
+  - MOCs/Meetings MOC.md: My Meeting MOC - a dynamic display of all my meeting related notes
+  - MySystem/Templates/Meeting Note Template.md: No description available
+
+Tag: MOC-Projects
+  - MOCs/Projects MOC.md: My Project MOC. a dynamic display of all projects
+
+Tag: MOC-StudyMaterials
+  - MOCs/Study Materials MOC.md: My study materials moc - a dynamic display of all study material
+
+Tag: MOC-Tasks
+  - MOCs/Tasks MOC.md: No description available
+
+Tag: #MOC-Documentation/Obsidian/vaultDocumentation
+  - MySystem/System Prompt.md: This is one of the files i can give to an ai as context to inform it about my system.
+
+Tag: #Moc-Templates
+  - MySystem/Templates/Daily Note Template.md: "Daily note for <% tp.date.now("YYYY-MM-DD") %>."
+
+Tag: Project
+  - MySystem/Templates/Project Template.md: No description available
+

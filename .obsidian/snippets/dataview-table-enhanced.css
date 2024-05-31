@@ -1,0 +1,102 @@
+/* Ensure the container holding the table can be wider */
+.markdown-preview-view {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+.markdown-preview-view .markdown-preview-sizer {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+/* Enhanced Dataview table styling */
+.dataview.table-view-table {
+    width: 100% !important; /* Ensure table uses full width of its container */
+    max-width: none; /* Remove any maximum width restriction */
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 0.9em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.dataview.table-view-table th,
+.dataview.table-view-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+    color: #ffffff;  /* Adjust the text color to white for better readability */
+}
+
+.dataview.table-view-table th {
+    background-color: #009879;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.dataview.table-view-table td {
+    font-weight: normal;
+}
+
+.dataview.table-view-table tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.dataview.table-view-table tr:nth-of-type(even) {
+    background-color: #2c2c2c;  /* Darker shade for even rows */
+}
+
+.dataview.table-view-table tr:nth-of-type(odd) {
+    background-color: #1e1e1e;  /* Darker shade for odd rows */
+}
+
+.dataview.table-view-table tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.dataview.table-view-table tr:hover {
+    background-color: #3a3a3a;  /* Slightly lighter shade for hover effect */
+}
+
+/* Tag styling */
+.dataview.table-view-table td .tag {
+    background-color: #009879;
+    color: #ffffff;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    margin-right: 5px;
+    display: inline-block;  /* Ensure tags are displayed inline */
+}
+
+/* Adjust column widths for a more balanced layout */
+.dataview.table-view-table th:nth-child(1),
+.dataview.table-view-table td:nth-child(1) {
+    width: 15%;
+}
+
+.dataview.table-view-table th:nth-child(2),
+.dataview.table-view-table td:nth-child(2) {
+    width: 20%;
+}
+
+.dataview.table-view-table th:nth-child(3),
+.dataview.table-view-table td:nth-child(3) {
+    width: 25%;
+}
+
+.dataview.table-view-table th:nth-child(4),
+.dataview.table-view-table td:nth-child(4) {
+    width: 15%;
+}
+
+.dataview.table-view-table th:nth-child(5),
+.dataview.table-view-table td:nth-child(5) {
+    width: 10%;
+}
+
+.dataview.table-view-table th:nth-child(6),
+.dataview.table-view-table td:nth-child(6) {
+    width: 15%;
+}

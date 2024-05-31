@@ -1,0 +1,67 @@
+Tag: MOC-Documentation/Obsidian/vaultDocumentation
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\AI Integration with Dynamic Tag File.md: How the dynamic tag file facilitates AI understanding of the tagging structure for automated content generation and management.
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\necessary metadata.md: A reference guide for the metadata schema used in my Obsidian system.
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Obsidian Note System Overview.md: A reference guide for the metadata schema used in my Obsidian system.
+
+Tag: MOC-DailyNotes
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Daily Note - 2024-05-29.md: "Daily note for 2024-05-29."
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\Daily Notes MOC.md: Hosts all my daily notes
+
+Tag: StudyStrategy
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Flashcards Strategy.md: Strategies and tips for effective flashcard study, particularly for IT interview preparation.
+
+Tag: MOC-DailyHabits
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Flashcards Strategy.md: Strategies and tips for effective flashcard study, particularly for IT interview preparation.
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Job Leads - use daily.md: Regularly reviewed note related to my job search strategy.
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Journal.md: Reflection on core beliefs about the nature of work and associated habits.
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\DailyHabits MOC.md: Items to review regularly. can be related to any topic.
+
+Tag: MOC-JobSearch
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Job Leads - use daily.md: Regularly reviewed note related to my job search strategy.
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\Job Search MOC.md: JobSearch related items
+
+Tag: #MOC-Documentation/Jupyter
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Jupyter Documentation Hub.md: No description available
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MySystem\Templates\Jupyter Documentation Hub.md: Central hub for Jupyter-related documentation, setup guides, best practices, and integration tips.
+
+Tag: MOC-Documentation/Obsidian
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Jupyter Documentation Hub.md: No description available
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Setting Up Git and Automating Backups with Conda.md: A detailed walkthrough on setting up Git using Conda, initializing a Git repository, and automating backups in your Obsidian vault.
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MySystem\Templates\Jupyter Documentation Hub.md: Central hub for Jupyter-related documentation, setup guides, best practices, and integration tips.
+
+Tag: #MOC-Documentation/Git
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Setting Up Git and Automating Backups with Conda.md: A detailed walkthrough on setting up Git using Conda, initializing a Git repository, and automating backups in your Obsidian vault.
+
+Tag: Moc-Templates
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\Inbox\Untitled 3.md: Gereric Note Template
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MySystem\Templates\Note Template.md: Gereric Note Template
+
+Tag: MOC-Documentation
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\Documentation MOC.md: Documentation related to software
+
+Tag: MOC-Flashcards
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\Flashcards MOC.md: My Flashcards
+
+Tag: MOC
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\Master MOC.md: A dynamic display of all my MOC files
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MySystem\Templates\MOC Template.md: {This is a template used for producing properly formatted files.}
+
+Tag: MOC-MeetingNotes
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\Meetings MOC.md: My Meeting MOC - a dynamic display of all my meeting related notes
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MySystem\Templates\Meeting Note Template.md: No description available
+
+Tag: MOC-Projects
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\Projects MOC.md: My Project MOC. a dynamic display of all projects
+
+Tag: MOC-StudyMaterials
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\Study Materials MOC.md: My study materials moc - a dynamic display of all study material
+
+Tag: MOC-Tasks
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MOCs\Tasks MOC.md: No description available
+
+Tag: #MOC-Documentation/Obsidian/vaultDocumentation
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MySystem\System Prompt.md: This is one of the files i can give to an ai as context to inform it about my system.
+
+Tag: Project
+ - C:/Users/erinh.HYPERVSERVER/OneDrive/ObsidianVaults/Development/GroundUpRestart - Backup\MySystem\Templates\Project Template.md: No description available
+

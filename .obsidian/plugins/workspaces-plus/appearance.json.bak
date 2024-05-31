@@ -1,0 +1,8 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tasks-enhances",
+    "dataview-table-enhanced"
+  ]
+}

@@ -1,0 +1,112 @@
+/* Enhanced task list styling */
+.task-list-item {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    background-color: var(--background-primary-alt);
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+
+.task-list-item .task-list-item-checkbox {
+    margin-right: 15px;
+    transform: scale(1.2);
+}
+
+.task-list-item .task-list-item-content-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.task-list-item .task-list-item-content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+}
+
+.task-list-item .task-list-item-content a {
+    margin-right: 5px;
+    color: var(--text-accent);
+    text-decoration: none;
+}
+
+.task-list-item .task-list-item-content a:hover {
+    text-decoration: underline;
+}
+
+.task-list-item .task-list-item-meta {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.9em;
+    color: var(--text-muted);
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+
+.task-list-item .task-list-item-meta span {
+    margin-left: 0;
+}
+
+.task-list-item .task-list-item-meta span.due-date {
+    color: var(--text-accent);
+}
+
+.task-list-item .task-list-item-meta span.priority {
+    color: var(--text-warning);
+}
+
+.task-list-item .task-list-item-meta span.project-link {
+    color: var(--text-normal);
+}
+
+/* Additional styling for icons */
+.task-list-item .task-list-item-content img,
+.task-list-item .task-list-item-meta img {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+/* Enhanced styling for task content */
+.task-list-item-content span {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.task-list-item-content .task-list-item-content-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.task-list-item-content .task-list-item-content-details span {
+    background: var(--background-secondary);
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+/* Custom task priority indicator */
+.task-list-item .task-list-item-meta .priority.high {
+    color: red;
+    font-weight: bold;
+}
+
+.task-list-item .task-list-item-meta .priority.medium {
+    color: orange;
+}
+
+.task-list-item .task-list-item-meta .priority.low {
+    color: green;
+}
+
+/* Improve readability of task links */
+.task-list-item .task-list-item-content .task-link {
+    font-weight: bold;
+    color: var(--text-accent);
+    text-decoration: none;
+}
+
+.task-list-item .task-list-item-content .task-link:hover {
+    text-decoration: underline;
+}

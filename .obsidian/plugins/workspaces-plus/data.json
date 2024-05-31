@@ -1,0 +1,28 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": false,
+  "workspaceSettings": true,
+  "systemDarkMode": false,
+  "globalSettings": {
+    "accentColor": "",
+    "theme": "obsidian",
+    "enabledCssSnippets": [
+      "tasks-enhances",
+      "dataview-table-enhanced"
+    ],
+    "alwaysUpdateLinks": true,
+    "newFileLocation": "folder",
+    "newFileFolderPath": "Inbox",
+    "attachmentFolderPath": "000 Inbox",
+    "promptDelete": false,
+    "showUnsupportedFiles": true
+  },
+  "activeWorkspaceDesktop": "",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": false,
+  "workspaceSwitcherRibbon": true,
+  "modeSwitcherRibbon": true,
+  "replaceNativeRibbon": false
+}

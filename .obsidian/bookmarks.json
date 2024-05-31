@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1716508210298,
+      "path": "000 Inbox/Tasks Tag Page.md",
+      "title": "Tasks"
+    },
+    {
+      "type": "folder",
+      "ctime": 1716669154664,
+      "path": "Daily Notes"
+    },
+    {
+      "type": "folder",
+      "ctime": 1716669273044,
+      "path": "MyPluginFiles/Templates - Templater storage"
+    },
+    {
+      "type": "file",
+      "ctime": 1716740551196,
+      "path": "000 Inbox/Study Strategy.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1716743923608,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1716515404627,
+          "path": "000 Inbox/OSI Flashcards.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1716743944990,
+          "path": "000 Inbox/Daily Flashcards.md"
+        }
+      ],
+      "title": "Flashcards"
+    },
+    {
+      "type": "file",
+      "ctime": 1717018124246,
+      "path": "Inbox/Kanban Today.md"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+Tag: excalidraw
+  - excalibrain.md: No description available
+  - Excalidraw/Drawing 2024-05-20 01.16.44.excalidraw.md: No description available
+  - Excalidraw/Drawing 2024-05-26 13.32.07.excalidraw.md: No description available
+  - Excalidraw/Drawing 2024-05-29 19.43.34.excalidraw.md: No description available
+
+Tag: MOC-Documentation/Obsidian/vaultDocumentation
+  - Inbox/AI Integration with Dynamic Tag File.md: How the dynamic tag file facilitates AI understanding of the tagging structure for automated content generation and management.
+  - Inbox/necessary metadata.md: A reference guide for the metadata schema used in my Obsidian system.
+  - Inbox/Obsidian Note System Overview.md: A reference guide for the metadata schema used in my Obsidian system.
+
+Tag: MOC-MeetingNotes
+  - Inbox/AssetWorks.md: Notes and meeting notes related to Asset works (possible employer)
+  - Inbox/Consuro.md: Meeting and general notes for consuro (potential employer)
+  - Inbox/Endeavors.md: Meeting notes and other notes related to endeavors (potential employer)
+  - Inbox/Inopex Meeting  and job Details.md: Meeting notes and job details for Inopex meeting related to job search.
+  - Inbox/Velonex.md: Meeting notes and job details for Velonex meeting related to job search.
+  - MySystem/Templates/Meeting Note Template.md: No description available
+
+Tag: MOC-JobSearch
+  - Inbox/AssetWorks.md: Notes and meeting notes related to Asset works (possible employer)
+  - Inbox/Consuro.md: Meeting and general notes for consuro (potential employer)
+  - Inbox/Endeavors.md: Meeting notes and other notes related to endeavors (potential employer)
+  - Inbox/Inopex Meeting  and job Details.md: Meeting notes and job details for Inopex meeting related to job search.
+  - Inbox/Job Leads - use daily.md: Regularly reviewed note related to my job search strategy.
+  - Inbox/Velonex.md: Meeting notes and job details for Velonex meeting related to job search.
+
+Tag: MOC-DailyNotes
+  - Inbox/Daily Note - 2024-05-31.md: "Daily note for 2024-05-29."
+
+Tag: MOC-DailyHabits
+  - Inbox/Flashcards Strategy.md: Strategies and tips for effective flashcard study, particularly for IT interview preparation.
+  - Inbox/Job Leads - use daily.md: Regularly reviewed note related to my job search strategy.
+  - Inbox/Journal.md: Reflection on core beliefs about the nature of work and associated habits.
+
+Tag: MOC-Documentation/Obsidian
+  - Inbox/Jupyter Documentation Hub.md: No description available
+  - Inbox/Setting Up Git and Automating Backups with Conda.md: A detailed walkthrough on setting up Git using Conda, initializing a Git repository, and automating backups in your Obsidian vault.
+  - MySystem/Templates/Jupyter Documentation Hub.md: Central hub for Jupyter-related documentation, setup guides, best practices, and integration tips.
+
+Tag: #MOC-Documentation/Jupyter
+  - Inbox/Jupyter Documentation Hub.md: No description available
+  - MySystem/Templates/Jupyter Documentation Hub.md: Central hub for Jupyter-related documentation, setup guides, best practices, and integration tips.
+
+Tag: #MOC-Documentation/Microsoft
+  - Inbox/Microsoft Power Automate.md: My documentation related to microsoft's new power automate features
+
+Tag: #MOC-Documentation/Git
+  - Inbox/Setting Up Git and Automating Backups with Conda.md: A detailed walkthrough on setting up Git using Conda, initializing a Git repository, and automating backups in your Obsidian vault.
+
+Tag: Moc-Templates
+  - Inbox/Untitled 3.md: Gereric Note Template
+  - MySystem/Templates/Note Template.md: Gereric Note Template
+
+Tag: MOCobject
+  - MOCs/Daily Notes MOC.md: Hosts all my daily notes
+  - MOCs/DailyHabits MOC.md: Items to review regularly. can be related to any topic.
+  - MOCs/Flashcards MOC.md: My Flashcards
+  - MOCs/Job Search MOC.md: JobSearch related items
+  - MOCs/Knowledge MOC.md: My study materials moc - a dynamic display of all study material
+  - MOCs/Master MOC.md: A dynamic display of all my MOC files
+  - MOCs/MeetingNotes MOC.md: My Meeting MOC - a dynamic display of all my meeting related notes
+  - MOCs/Projects MOC.md: My Project MOC. a dynamic display of all projects
+  - MOCs/Tasks MOC.md: No description available
+
+Tag: #MOCobject
+  - MOCs/Documentation MOC.md: Documentation related to software
+
+Tag: #MOC-Documentation/Obsidian/vaultDocumentation
+  - MySystem/System Prompt.md: This is one of the files i can give to an ai as context to inform it about my system.
+
+Tag: MOC
+  - MySystem/Templates/MOC Template.md: {This is a template used for producing properly formatted files.}
+
